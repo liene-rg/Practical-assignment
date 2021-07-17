@@ -1,1 +1,3 @@
 This is the first file in this project.
+
+This is new line in this group homework project file written by Aija Arina.
